@@ -130,3 +130,5 @@ SimpleCov.start
 ```
 
 You can see your test coverage when you run your tests. If you want this in a graphical form, uncomment the `HTMLFormatter` line and see what happens!
+
+[![Run on Repl.it](https://repl.it/badge/github/makersacademy/chitter-challenge)](https://repl.it/github/makersacademy/chitter-challenge)
